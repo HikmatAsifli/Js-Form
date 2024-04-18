@@ -14,6 +14,13 @@ body {
   flex-direction: column;
 }
 
+/*! Heading design */
+h1{
+  color: red;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
 /*! Form Section */
 form {
   display: flex;
